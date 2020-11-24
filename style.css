@@ -1,0 +1,27 @@
+ul{
+color: blue;
+}
+body
+{
+    text-align: center;
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#e35454 0%, #833ab4 50%, #00d7ff 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9; 
+}
+
+input
+{
+    background: grey;
+}
+#contact iframe
+{
+    width: 100%;
+}   
+li{
+    color: gold;
+    
+}
